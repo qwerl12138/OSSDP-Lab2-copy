@@ -9,6 +9,8 @@ public class L2022211839_4_Test {
     // 4. 特殊情况测试：测试包含相同元素的数组。
     // 5. 正常情况测试：测试包含不同元素的数组。
 
+    // Throughout test!
+    
     @Test
     public void testMaximumGapWithSmallArray() {
         // 测试目的：验证算法对于小数组的正确性。
